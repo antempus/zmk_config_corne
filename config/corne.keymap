@@ -11,7 +11,7 @@
 #define LWR  1
 #define RAI  2
 #define MOD  3
-{
+/ {
         keymap {
                 compatible = "zmk keymap";
 
